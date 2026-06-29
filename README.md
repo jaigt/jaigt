@@ -12,4 +12,4 @@ I'm an MS student in Artificial Intelligence (concentrating in Finance & Operati
 
 ⚡ **Fun fact:** there's always music playing while I work, and I'm always mid-book — send me your best reads.
 
-Mostly Python, some TypeScript. Feel free to reach out — always happy to talk AI, markets, or books.
+Mostly Python, some TypeScript. Feel free to reach out — always happy to talk AI, markets, even music and books.
