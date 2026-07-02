@@ -8,6 +8,7 @@ I'm an MS student in Artificial Intelligence (concentrating in Finance & Operati
 
 - **[mosaic](https://github.com/jaigt/mosaic)** — an autonomous equity-research analyst over SEC filings. *Read the filings, not the headlines.*
 - **[schwab-mcp](https://github.com/jaigt/schwab-mcp)** — a Model Context Protocol server that connects a Schwab portfolio to an AI agent (read-only).
+- **[race](https://github.com/jaigt/race)** - a Formula 1 Pit-Wall Simulator.
 - **[money](https://github.com/jaigt/money)** — a personal budgeting and net-worth tool.
 
 ⚡ **Fun fact:** there's always music playing while I work, and I'm always mid-book — send me your best reads.
