@@ -4,6 +4,7 @@ I'm an MS student in Artificial Intelligence (concentrating in Finance & Operati
 
 🌱 **Currently:** starting my MS this fall, and spending the summer building side projects.
 
+- **[generative-ui](https://github.com/jaigt/generative-ui)** - a Generative UI framework proof-of-concept, for making your UI custom for each user.
 - **[schwab-mcp](https://github.com/jaigt/schwab-mcp)** — a Model Context Protocol server that connects a Schwab portfolio to an AI agent (read-only).
 - **[race](https://github.com/jaigt/race)** - a Formula 1 Pit-Wall Simulator.
 
