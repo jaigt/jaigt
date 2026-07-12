@@ -1,4 +1,4 @@
-### Hi, I'm Jai 👋
+### [Hi, I'm Jai](https://jaigt.github.io) 👋
 
 I'm an MS student in Artificial Intelligence (concentrating in Finance & Operations), and previously a software engineer working on AI enablement. I like building things at the intersection of AI and finance — agents that read filings, reason about portfolios, and make sense of money.
 
